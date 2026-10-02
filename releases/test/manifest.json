@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "id": "atlasos-ship",
+  "version": "0.0.0-test.1",
+  "entrypoint": "/atlasos-test/boot.lua",
+  "files": [
+    {
+      "path": "/atlasos-test/boot.lua",
+      "source": "files/atlasos/boot.lua",
+      "sha256": "4733b31b045e76b2d57341192f39c06d8a7a77efd96ec97c9b327c93f7b96c34"
+    }
+  ],
+  "preserve": [
+    "/atlasos-test/config.db"
+  ],
+  "generated": [
+    "/atlasos-test/logs/"
+  ]
+}
