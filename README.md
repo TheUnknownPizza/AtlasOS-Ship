@@ -6,7 +6,7 @@ Ship-control edition of AtlasOS for CC:Tweaked.
 
 AtlasOS Ship is a server + Pocket Computer flight-control system for Minecraft vessels. It provides manual control, assisted flight, autopilot/navigation, safety interlocks, external telemetry, pairing, radio integration, and a guided hardware commissioning flow.
 
-The software runs on Advanced Computers
+The software runs on Advanced Computers.
 
 ## Quick install
 
@@ -228,6 +228,8 @@ When Atlas Navigation Compatibility is available, AtlasOS can use the vessel's N
 With navigation source set to `AUTO`, this provider is preferred when available.
 
 Atlas Navigation Compatibility is a server-side mod that may not work on versions beside NeoForge 1.21.1
+
+If it doesn't work, you can modify the source of it in any way, so feel free to fix, port, or otherwise change it.
 
 The mod jar and source can be found in:
 
