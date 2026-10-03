@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "id": "atlasos-ship",
+  "version": "0.5.5-rc3",
+  "entrypoint": "/atlasos/boot.lua",
+  "files": [
+    {
+      "path": "/startup.lua",
+      "source": "files/startup.lua",
+      "sha256": "e91c129f87e4be68b1f23c8f9c812e663a133c9c7836772cfe561352c316c3f9"
+    },
+    {
+      "path": "/atlas.lua",
+      "source": "files/atlas.lua",
+      "sha256": "2db806c0cf5aa31e69619e5ee45a9f39b2d3e6d37caee6e2a6ce01865c7192c3"
+    },
+    {
+      "path": "/atlasctl.lua",
+      "source": "files/atlasctl.lua",
+      "sha256": "14d57e0746b949ae084c615bce27ab04a84c0543d41019e1f927efe1b6525e4c"
+    },
+    {
+      "path": "/atlas-recovery.lua",
+      "source": "files/atlas-recovery.lua",
+      "sha256": "56069e6304521a24886468dc1cf3645bccd6e3d62a459285312e59625b1492de"
+    },
+    {
+      "path": "/atlasos/apps/assist_commission.lua",
+      "source": "files/atlasos/apps/assist_commission.lua",
+      "sha256": "b954508773ad94e57c63b8701375c62ede43475b80711e95ee7df6668fe6bbd8"
+    },
+    {
+      "path": "/atlasos/apps/assist_setup.lua",
+      "source": "files/atlasos/apps/assist_setup.lua",
+      "sha256": "8684d66f3e70a6d7772d7696062f74386405fa3ade81e7aab6522494364988ac"
+    },
+    {
+      "path": "/atlasos/apps/atlasctl.lua",
+      "source": "files/atlasos/apps/atlasctl.lua",
+      "sha256": "9c3efa5322d92cd036c35db1a419ae9c3eb67a266dd2f57b751ea3c4b4921c1e"
+    },
+    {
+      "path": "/atlasos/apps/diagnostics.lua",
+      "source": "files/atlasos/apps/diagnostics.lua",
+      "sha256": "3943f40e62e3b95fb06282bd489a76ff1eb67ebc2977a49f10e5578cb525514b"
+    },
+    {
+      "path": "/atlasos/apps/flight_setup.lua",
+      "source": "files/atlasos/apps/flight_setup.lua",
+      "sha256": "ad799d0eed4760a7d628ea476ac6aecfde45922ccef27bc5d247b9ec7a81a0b8"
+    },
+    {
+      "path": "/atlasos/apps/io_test.lua",
+      "source": "files/atlasos/apps/io_test.lua",
+      "sha256": "bddf7d934efbef4a962a6155a8fc5877a297faaed9b2d64425d515e0f1a823b6"
+    },
+    {
+      "path": "/atlasos/apps/pocket.lua",
+      "source": "files/atlasos/apps/pocket.lua",
+      "sha256": "1b7d4f06a39afed5503e505e766f88943566b8227be6afe8197d2e0a733b94a6"
+    },
+    {
+      "path": "/atlasos/apps/sensor_calibrate.lua",
+      "source": "files/atlasos/apps/sensor_calibrate.lua",
+      "sha256": "ef7f90b8a4d4ca5b0826ee2b93c5710fb288efa42da6b67d9e66bb78d9517dc3"
+    },
+    {
+      "path": "/atlasos/apps/sensor_monitor.lua",
+      "source": "files/atlasos/apps/sensor_monitor.lua",
+      "sha256": "6cca172e36d7c86675ad224be4611c78d90917f98fca4f8bc6eeef6abe0a6de1"
+    },
+    {
+      "path": "/atlasos/apps/sensor_setup.lua",
+      "source": "files/atlasos/apps/sensor_setup.lua",
+      "sha256": "b1af34d23894dc3dd4cf6f9d88f5e0ecc74a8929c6b18df7a9f779c4e81a599a"
+    },
+    {
+      "path": "/atlasos/apps/server.lua",
+      "source": "files/atlasos/apps/server.lua",
+      "sha256": "3effea24b1922e8322fdbb6a51957e89c2e9bcbd2a47d111cd48d1fba3871b9f"
+    },
+    {
+      "path": "/atlasos/apps/setup.lua",
+      "source": "files/atlasos/apps/setup.lua",
+      "sha256": "e971ca4d750d3f6569ffeeb0b4aa4d5e3f45c65c2d56403c92f681b31fa721aa"
+    },
+    {
+      "path": "/atlasos/apps/ship_setup.lua",
+      "source": "files/atlasos/apps/ship_setup.lua",
+      "sha256": "d3a617289b5b1f31fb167db19ef91a09a853d89763e16b4fa095b01a7afb0f69"
+    },
+    {
+      "path": "/atlasos/apps/uninstall.lua",
+      "source": "files/atlasos/apps/uninstall.lua",
+      "sha256": "337bb0692504e1b0263b32c41dbb3e5c1224f2231a5a8b11932837ee138da494"
+    },
+    {
+      "path": "/atlasos/boot.lua",
+      "source": "files/atlasos/boot.lua",
+      "sha256": "d526237d3208e6aa189346b914ab6dcb45b7d5fc2cf239e4af28abbfeb6c4658"
+    },
+    {
+      "path": "/atlasos/lib/assist.lua",
+      "source": "files/atlasos/lib/assist.lua",
+      "sha256": "43d3bf3449fc3341f9d43070c5c2c62cd631b7031b375297657d3d74f6e8071d"
+    },
+    {
+      "path": "/atlasos/lib/config.lua",
+      "source": "files/atlasos/lib/config.lua",
+      "sha256": "3aa5717fa84ea1c562fc57a151260b9e3eecf27879bd89831c31a632b0bc94f2"
+    },
+    {
+      "path": "/atlasos/lib/display.lua",
+      "source": "files/atlasos/lib/display.lua",
+      "sha256": "a052dc49345c84b0460be34a04ccb83e87db863d5649e57592c05970c6e1bece"
+    },
+    {
+      "path": "/atlasos/lib/io.lua",
+      "source": "files/atlasos/lib/io.lua",
+      "sha256": "0377fbd3661b142413afb8bacad664e85cc9e3730d8ecfc04791f5ee7175af71"
+    },
+    {
+      "path": "/atlasos/lib/log.lua",
+      "source": "files/atlasos/lib/log.lua",
+      "sha256": "bead2c0a864194ab9e201b9e1b1cbf4f8709f960e0172c7eb9c0cf69caa1900e"
+    },
+    {
+      "path": "/atlasos/lib/navigation.lua",
+      "source": "files/atlasos/lib/navigation.lua",
+      "sha256": "d748977931ccd7bfde05cd4e6634db5ee6c3ddea85aae4ef230486b35456a2b5"
+    },
+    {
+      "path": "/atlasos/lib/navigation_provider.lua",
+      "source": "files/atlasos/lib/navigation_provider.lua",
+      "sha256": "6fc927e9cc13f5575c97cbf6d647400f106f37fad182379e1cf0a26531e2571a"
+    },
+    {
+      "path": "/atlasos/lib/net.lua",
+      "source": "files/atlasos/lib/net.lua",
+      "sha256": "f2611d403a5f2b4222c0578abfdbf76333a6ec3c85db37f9a95920e0d49019f9"
+    },
+    {
+      "path": "/atlasos/lib/radio.lua",
+      "source": "files/atlasos/lib/radio.lua",
+      "sha256": "f9a16d3c06a7ff204e6453864904b12d7c41ad5144df05b29677f85ad538b694"
+    },
+    {
+      "path": "/atlasos/lib/sensors.lua",
+      "source": "files/atlasos/lib/sensors.lua",
+      "sha256": "b1a415ad9810c35ee72255adb6cc01e7ff1479dcbf2bcb3c6e1b6d1a78c37f9b"
+    },
+    {
+      "path": "/atlasos/lib/settings.lua",
+      "source": "files/atlasos/lib/settings.lua",
+      "sha256": "bc2920986f7661aba0d8dbe37c06ae73dd16bc0856a59dbedb108729ad3bdf1c"
+    },
+    {
+      "path": "/atlasos/lib/telemetry_display.lua",
+      "source": "files/atlasos/lib/telemetry_display.lua",
+      "sha256": "a44412bc78adc9b9624f0509cd98517ad5cf8ecfe4da63de7a42cf23053b3116"
+    },
+    {
+      "path": "/atlasos/lib/util.lua",
+      "source": "files/atlasos/lib/util.lua",
+      "sha256": "a15feb26f3a35558194a2683570f59353a0fcbec3187d6622bacad38d69f6665"
+    },
+    {
+      "path": "/atlasos/version.lua",
+      "source": "files/atlasos/version.lua",
+      "sha256": "512817dea50cdf840e988720c41ba2c1df67279b674d9b30646fe1579739b950"
+    }
+  ],
+  "preserve": [
+    "/atlasos/config.db",
+    "/atlasos/music/",
+    "/atlasos/backup/",
+    "/atlasos/backups/"
+  ],
+  "generated": [
+    "/atlasos/logs/"
+  ]
+}
